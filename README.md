@@ -9,7 +9,7 @@
 ## :headphones: Spotify Playing
 
 
-[![Spotify](https://novatorem-topaz-eta.vercel.app/api/spotify?background_color=1e1e1e&bar_color=00ff41&title_color=ffd700&text_color=ffffff)](https://open.spotify.com/user/31tcjgii7hk7qmg56u5mmxbarcmi)
+[![Spotify](https://novatorem-topaz-eta.vercel.app/api/spotify?background_color=2b0a3d&bar_color=ff006e&title_color=00d9ff&text_color=ffadff)](https://open.spotify.com/user/31tcjgii7hk7qmg56u5mmxbarcmi)
 
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
