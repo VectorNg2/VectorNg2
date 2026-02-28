@@ -35,7 +35,7 @@
 
 [![Spotify](https://novatorem-topaz-eta.vercel.app/api/spotify?background_color=2b0a3d&bar_color=ff006e&title_color=00d9ff&text_color=ffadff)](https://open.spotify.com/user/31tcjgii7hk7qmg56u5mmxbarcmi)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" top="30">
 
 
 
