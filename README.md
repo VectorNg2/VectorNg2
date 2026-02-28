@@ -39,20 +39,6 @@
 
 
 
-
-## 🎧 Spotify Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31tcjgii7hk7qmg56u5mmxbarcmi">
-    <img 
-      src="https://novatorem-topaz-eta.vercel.app/api/spotify?background_color=2b0a3d&bar_color=ff006e&title_color=00d9ff&text_color=ffadff"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
