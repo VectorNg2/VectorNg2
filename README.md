@@ -2,11 +2,17 @@
 
 ---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 <h1 align="center">Hi 👋, I'm Victor Narazas</h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • C# • Microservices</h3>
+<h3 align="center">A passionate Backend Developer from Cibertec</h3>
 
 <p align="center">
-Passionate about building scalable APIs, real-time systems and event-driven architectures.
+I enjoy solving problems, building APIs, and creating scalable backend systems 🛠️
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=CoDeVeck&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -19,17 +25,23 @@ Passionate about building scalable APIs, real-time systems and event-driven arch
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
 ---
 
-## 🚀 Tech Stack
+<h3 align="center">⚙️ Languages and Tools</h3>
 
+<!-- Backend -->
 ### 🔧 Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,spring" />
+    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,spring,swift" />
   </a>
 </p>
 
+<!-- Messaging -->
 ### 📬 Messaging & Event Streaming
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,9 +50,10 @@ Passionate about building scalable APIs, real-time systems and event-driven arch
 </p>
 
 <p>
-Experience building asynchronous and event-driven systems using message brokers for scalable microservices communication.
+Experience building event-driven architectures with message brokers for decoupled and scalable backend systems.
 </p>
 
+<!-- Database -->
 ### 🗄️ Database
 <p align="left">
   <a href="https://skillicons.dev">
@@ -48,36 +61,35 @@ Experience building asynchronous and event-driven systems using message brokers 
   </a>
 </p>
 
-### ☁️ Cloud & DevOps
+<!-- Cloud -->
+### ☁️ Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,cloudflare,vercel" />
+    <img src="https://skillicons.dev/icons?i=firebase,cloudflare,vercel" />
   </a>
 </p>
 
-### 🎨 Frontend (bonus skills)
+<!-- Frontend -->
+### 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,angular" />
   </a>
 </p>
 
+<!-- Tools -->
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,eclipse,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,kubernetes,eclipse" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect with me
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/v%C3%ADctor-narazas-93ab323a1/">
-    LinkedIn
-  </a> |
-  <a href="https://www.youtube.com/@Vector_gn">
-    YouTube
-  </a>
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-narazas-93ab323a1/">LinkedIn</a> |
+  <a href="https://www.youtube.com/@Vector_gn">YouTube</a>
 </p>
