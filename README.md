@@ -93,6 +93,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/v%C3%ADctor-narazas-93ab323a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor narazas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Vector_gn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="victor narazas" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="victor narazas" height="30" width="40" /></a>
 </p>
 <br>
 
