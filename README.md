@@ -7,21 +7,18 @@
 
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50"  />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" style="display:inline-block;" />
 </p>
-
-<br>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" style="display:inline-block;" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" style="display:inline-block;" />
 </p>
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
