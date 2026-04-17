@@ -4,29 +4,23 @@
 <h1 align="center">Hi 👋, I'm Victor Narazas</h1>
 <h3 align="center">A passionate Programmer from Cibertec</h3>
 <p align="center">I am a web developer, I like challenges and providing solutions to technological problems.🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=CoDeVeck&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-</p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> -->
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50"  />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <!-- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-<!--  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-<!--  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /> -->
-</div>
+</p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
